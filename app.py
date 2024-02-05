@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-# import vertexai
 from vertexai.preview.generative_models import GenerativeModel, Part
 from datetime import datetime
 from dotenv import load_dotenv
