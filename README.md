@@ -50,23 +50,25 @@ We recommend using a virtual environment to manage your project dependencies. He
    pip3 install -r requirements.txt
    ```
 
-## Installing and Initializing Google Cloud SDK
-
-Now, let's set up the Google Cloud SDK on your local machine:
-
-Follow the instructions at [Google Cloud SDK Installation](https://cloud.google.com/sdk/docs/install) and [Initializing and Authorizing the gcloud CLI](https://cloud.google.com/sdk/docs/initializing) to install the Google Cloud SDK and initialize it based on you Service Account which you created in the previous step.
-
 ## Setting Environment Variables
 
 Before running your code, you need to set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable to the path of your JSON key file:
 
+in the .env file paste the text below
 ```bash
 GOOGLE_APPLICATION_CREDENTIALS="path/to/your/key.json"
 ```
 
 Replace `"path/to/your/key.json"` with the actual path to your downloaded JSON key file.
 
-you can use .env file or just manually add it to your environmet variables in the setting.
+also add this variable manually into your system.
+
+## Installing and Initializing Google Cloud SDK
+
+Now, let's set up the Google Cloud SDK on your local machine:
+
+Follow the instructions at [Google Cloud SDK Installation](https://cloud.google.com/sdk/docs/install) and [Initializing and Authorizing the gcloud CLI](https://cloud.google.com/sdk/docs/initializing) to install the Google Cloud SDK and initialize it based on you Service Account which you created in the previous step.
+
 
 Now you're all set up to use Google Vertex AI with Gemini Pro API!
 
