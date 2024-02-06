@@ -1,5 +1,7 @@
 # gemini_invoice_reader
 
+https://github.com/heispv/gemini_invoice_reader/assets/102462222/90f6cc8c-6151-4559-a1f0-7379eda05408
+
 ## README: How to Use This Repository
 
 This repository provides a guide on how to set up and use Google Vertex AI with Gemini Pro API, particularly if you're in the regions which don't have access to the `https://makersuite.google.com/app/` to use Gemini API and Google AI Studio. We'll guide you through the steps necessary to get started.
