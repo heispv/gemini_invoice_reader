@@ -1,6 +1,6 @@
 # gemini_invoice_reader
 
-https://github.com/heispv/gemini_invoice_reader/assets/102462222/90f6cc8c-6151-4559-a1f0-7379eda05408
+https://github.com/heispv/gemini_invoice_reader/assets/102462222/78afaf35-cf9b-4f32-b55c-0748968ff7b3
 
 ## README: How to Use This Repository
 
